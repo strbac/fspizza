@@ -1,0 +1,78 @@
+body{
+	background-color:yellow;
+}
+.header img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.nav {
+	height: 40px;
+	background: gold;
+	border-style: solid;
+	border-color:red;
+}
+.nav ul{
+    margin: 0;
+    padding: 0;   
+}
+.nav ul li{
+	list-style: none;
+}
+.nav ul li a {
+	text-decoration: none;
+	float: left;
+	display: block;
+	padding: 10px 180px;
+	color: red;
+}
+.nav ul li a:hover{
+	color: white;
+}
+#poruci h2 {
+	color:	red;
+	font-family: Pangolin;
+	text-align: center;
+}
+
+.ponuda p  {  
+	color:	red;
+	font-family: Pangolin;
+	text-align: center;
+	
+}
+.ponuda img {
+	float: center;
+	margin-left: 0px;
+}
+#about h2 {
+	color: red;
+	font-family: Pangolin;
+	text-align: center;
+}
+#kontakt h2 {
+	color: red;
+	font-family: Pangolin;
+	text-align: center;
+}
+.kontakt {
+	border-style: solid;
+	border-color: red;
+}
+.kontakt p {
+	color: red;
+	font-family: Pangolin;
+	text-align: center;
+}
+.about p{
+	color: red;
+	font-family: Pangolin;
+	text-align: center;
+}
+
+	
+
+	
+	
+
+
